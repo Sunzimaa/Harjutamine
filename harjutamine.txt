@@ -1,2 +1,3 @@
+GitHubi kasutavad koolid, ettevõtted ja eriisikud.
 Mina saan GitHubi edasi kasutada koolis ja kodus. Tulevikus ka tööl.
 GitHub asutati aastal 2008, Githubi loojad olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon, GitHubi teenust sai kasutada paar kuud peale GitHubi asutamist.
